@@ -1,15 +1,14 @@
 <!-- 顶部动态 Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,40&height=300&section=header&text=Ken%20Xiao&desc=AI%20Developer%20%7C%20LLM%20Enthusiast%20%7C%20Lifelong%20Learner&animation=fadeIn&fontColor=fff&fontSize=90&fontAlignY=30&descSize=20&descAlignY=50" alt="header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,40&height=300&section=header&text=Ken%20Xiao&desc=AI%20Enthusiast%20%7C%20Developer%20%7C%20Student%20Forever&animation=fadeIn&fontColor=fff&fontSize=90&fontAlignY=30&descSize=20&descAlignY=50" alt="header">
 
-<!-- 个性化介绍 -->
+<!-- 个性化介绍 (已修复) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&random=false&width=600&height=120&lines=喵~ miu miau miāo(r)ニャー Miaou Meow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&random=false&width=600&height=120&lines=喵;Miāo~;Meow" alt="Typing SVG" />
   
   <br>
   
   <!-- 社交徽章 -->
   <div>
-    <!-- 记得将 # 替换成你的真实链接 -->
     <a href="https://github.com/KenXiao1"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
     <a href="mailto:kenx@andrew.cmu.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <!-- <a href="#"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="MyWebsite"></a> -->
@@ -47,8 +46,8 @@
   </tr>
 </table>
 
-<!-- 技术栈 -->
-<h2 align="center">🛠️ My Tech Arsenal</h2>
+<!-- 技术栈 (已修复) -->
+<h2 align="center">My Tech Arsenal</h2>
 
 <table align="center">
   <tr>
@@ -58,7 +57,7 @@
     </td>
     <td align="center">
       <strong>AI & Data Science</strong><br>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,langchain,opencv&perline=5" alt="AI & Data Science" />
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,opencv,scikitlearn&perline=5" alt="AI & Data Science" />
     </td>
     <td align="center">
       <strong>Backend</strong><br>
@@ -72,7 +71,7 @@
     </td>
     <td align="center">
       <strong>Databases</strong><br>
-      <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,pinecone,chroma&perline=5" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite&perline=5" alt="Databases" />
     </td>
     <td align="center">
       <strong>DevOps & Cloud</strong><br>
@@ -88,13 +87,13 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">AI Agent for Scientific Research</h3>
+        <h3 align="center">For ADHDer</h3>
         <div align="center">
-          <a href="https://github.com/KenXiao1/AIAgent-for-Scientific-Research" target="_blank">
+          <a href="https://github.com/KenXiao1/momentum" target="_blank">
             <!-- 使用你的用户名和仓库名 -->
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KenXiao1&repo=AIAgent-for-Scientific-Research&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="AIAgent-for-Scientific-Research"/>
           </a>
-          <p>An AI agent designed to automate scientific research processes.</p>
+          <p>A self-control training tool based on CTDP theory @https://www.zhihu.com/people/mount_cristo</p>
         </div>
       </td>
       <td width="50%">
@@ -117,7 +116,6 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <!-- 将 username=SaintFore 替换成 username=KenXiao1 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenXiao1&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&bg_color=1A1B27&title_color=36BCF7"  width="45%" alt="top languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=KenXiao1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&icon_color=36BCF7&title_color=36BCF7"  width="48%" alt="GitHub Stats"/>
 </div>
@@ -134,9 +132,14 @@
 
 <br/>
 
-<!-- 贪吃蛇动画: 需要你设置 GitHub Action 才能生效 -->
+
+<!-- 贪吃蛇动画 (设置Action后即可显示) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/KenXiao1/KenXiao1/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/SaintFore/GitHubSNK/blob/output/github-snake-dark.svg"/>
 </div>
 
 <!-- 底部 Footer -->
