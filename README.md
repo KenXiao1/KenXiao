@@ -28,8 +28,8 @@
     <td valign="top" width="60%">
 
 ### 🚀 My Goals for 2025
-- Write some codes for Quanting (especially in Polymarket & crypto)
-- Develop and open-source a novel LLM application.
+- Quant (especially in Polymarket & crypto)
+- Develop and open source a LLM application for writing fictions.
 - Develop https://momentumctdp.netlify.app/
 - Personal blog
 - Get prepared for my next stage of life
