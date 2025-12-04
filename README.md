@@ -10,7 +10,7 @@
   <!-- 社交徽章 -->
   <div>
     <a href="https://github.com/KenXiao1"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-    <a href="mailto:kenx@andrew.cmu.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:xiaofucheng1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <!-- <a href="#"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="MyWebsite"></a> -->
   </div>
 
@@ -31,54 +31,48 @@
 - Quant (especially in Polymarket & crypto)
 - Develop and open source a LLM application for writing fictions.
 - Develop https://momentumctdp.netlify.app/
-- Personal blog
+- [Personal blog](https://kenxiao.netlify.app/)
 - Get prepared for my next stage of life
 - read more papers and books in computational biology and math (complete *Introduction to Linear Algebra* & *Artin Algebra*)
 - 平安喜乐
       
-    </td>
-    <td valign="top" width="40%">
-      <div align="center">
-        <!-- 换一个更符合 AI 风格的 GIF -->
-        <img src="https://media.giphy.com/media/g1vrHolI9iMAaDQLw5/giphy.gif" width="250" alt="AI GIF">
-      </div>
-    </td>
   </tr>
 </table>
 
 <!-- 技术栈 (已修复) -->
-<h2 align="center">My Tech Arsenal</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <table align="center">
   <tr>
-    <td align="center">
-      <strong>Languages</strong><br>
-      <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts&perline=5" alt="Languages" />
+    <td align="center" width="33%">
+      <strong>Languages</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=python,go,js,ts,java&perline=5" alt="Languages" />
     </td>
-    <td align="center">
-      <strong>AI & Data Science</strong><br>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,opencv,scikitlearn&perline=5" alt="AI & Data Science" />
+    <td align="center" width="33%">
+      <strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,vite&perline=5" alt="Frontend" />
     </td>
-    <td align="center">
-      <strong>Backend</strong><br>
-      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask&perline=5" alt="Backend" />
+    <td align="center" width="33%">
+      <strong>Backend & Tools</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,docker,git&perline=5" alt="Backend & Tools" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Frontend</strong><br>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite&perline=5" alt="Frontend" />
+      <strong>AI & ML</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=pytorch,gcp&perline=3" alt="AI & ML" />
     </td>
     <td align="center">
-      <strong>Databases</strong><br>
-      <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite&perline=5" alt="Databases" />
+      <strong>Cloud & Deployment</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=cloudflare,netlify,vercel&perline=3" alt="Cloud & Deployment" />
     </td>
     <td align="center">
-      <strong>DevOps & Cloud</strong><br>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git&perline=5" alt="DevOps & Cloud" />
+      <strong>Tools & Productivity</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=obsidian,latex,vscode" alt="Tools & Productivity" />
     </td>
   </tr>
 </table>
+
 
 <!-- 精选项目 -->
 <h2 align="center">🏆 Featured Projects</h2>
@@ -86,29 +80,28 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">For ADHDer</h3>
+      <td width="50%" valign="top">
+        <h3 align="center">Momentum</h3>
         <div align="center">
           <a href="https://github.com/KenXiao1/momentum" target="_blank">
-            <!-- 使用你的用户名和仓库名 -->
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KenXiao1&repo=AIAgent-for-Scientific-Research&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="AIAgent-for-Scientific-Research"/>
+            <img src="https://kenxiao1-stat.vercel.app/api/pin/?username=KenXiao1&repo=momentum&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="momentum"/>
           </a>
-          <p>A self-control training tool based on CTDP theory @https://www.zhihu.com/people/mount_cristo</p>
+          <p></strong><br>A self-control training tool based on CTDP theory</p>
+          <p><a href="https://momentumctdp.netlify.app/" target="_blank">🔗 Live Demo</a> | <a href="https://kenxiao1.github.io/blog/momentum-introduction/" target="_blank">📖 Introduction</a></p>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center">LLM Application Practice</h3>
+      <td width="50%" valign="top">
+        <h3 align="center">Vieta Theorem - Manim</h3>
         <div align="center">
-          <a href="https://github.com/KenXiao1/LLM-Application-Practice" target="_blank">
-            <!-- 使用你的用户名和仓库名 -->
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KenXiao1&repo=LLM-Application-Practice&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="LLM-Application-Practice"/>
+          <a href="https://github.com/KenXiao1/VietaTheorem-Manim" target="_blank">
+            <img src="https://kenxiao1-stat.vercel.app/api/pin/?username=KenXiao1&repo=VietaTheorem-Manim&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="VietaTheorem-Manim"/>
           </a>
-          <p>A collection of practical applications built with Large Language Models.</p>
+          <p></strong><br>Manim script and video for Vieta Theorem that applies to any order</p>
         </div>
       </td>
     </tr>
   </table>
-  
+
   <a href="https://github.com/KenXiao1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-View%20All%20Repos-007ACC?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div> 
 
@@ -116,12 +109,12 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenXiao1&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&bg_color=1A1B27&title_color=36BCF7"  width="45%" alt="top languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KenXiao1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&icon_color=36BCF7&title_color=36BCF7"  width="48%" alt="GitHub Stats"/>
+  <img src="https://kenxiao1-stat.vercel.app/api/top-langs/?username=KenXiao1&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&bg_color=1A1B27&title_color=36BCF7" width="45%" alt="top languages"/>
+  <img src="https://kenxiao1-stat.vercel.app/api?username=KenXiao1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&icon_color=36BCF7&title_color=36BCF7" width="48%" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KenXiao1&theme=tokyonight&background=1A1B27&hide_border=true" width="93%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenXiao1&theme=tokyonight&background=1A1B27&hide_border=true" width="93%" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -132,15 +125,14 @@
 
 <br/>
 
-
-<!-- 贪吃蛇动画 (设置Action后即可显示) -->
+<!-- GitHub Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KenXiao1/KenXiao1/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KenXiao1/KenXiao1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KenXiao1/KenXiao1/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/KenXiao1/KenXiao1/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
-<div align="center">
-  <img src="https://github.com/SaintFore/GitHubSNK/blob/output/github-snake-dark.svg"/>
-</div>
-
-<!-- 底部 Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,40&height=150&section=footer&text=Thanks%20for%20visiting!&animation=fadeIn&fontColor=fff&fontSize=30&fontAlignY=70" alt="footer">
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,40&height=120&section=footer&text=Thanks%20for%20visiting!&animation=fadeIn&fontColor=fff&fontSize=28&fontAlignY=75" alt="footer">
